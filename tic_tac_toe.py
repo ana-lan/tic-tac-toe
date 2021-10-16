@@ -10,7 +10,7 @@ root = Tk()
 # Adding title to the window
 root.title('TIC-TAC-TOE')
 # Adding tic-tac-toe icon to the window
-root.iconbitmap('D:\py\Tic-Tac-Toe using Click-To-Play UI\icon.ico')
+root.iconbitmap('icon.ico')
 
 #### Function Definitions:
 
